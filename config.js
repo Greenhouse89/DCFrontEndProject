@@ -1,0 +1,5 @@
+const config = {
+    WEATHER_API_KEY : '843a80c4e38620111baea6b0af603f95',
+    UNSPLASH_KEY : '9LvJa1oI5mPFOdflZrTzzg_eu0vFT7FkiQeunnvIMwc',
+    UNSPLASH_KEY_SECRET : 'VtQDNXyLLSAiNVSlowSOSHH392LwuEIm7ls5EoiPq6o'
+}
